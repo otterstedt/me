@@ -10,3 +10,7 @@ a.card-header:hover {
     font-weight: bolder;
     text-decoration:none;
 }
+
+div[lang] span[lang] {
+	display: none;
+}
