@@ -1,0 +1,12 @@
+.info-tag {
+    white-space: nowrap;
+}
+
+.card-header {
+    color:inherit !important;
+}
+
+a.card-header:hover {
+    font-weight: bolder;
+    text-decoration:none;
+}
