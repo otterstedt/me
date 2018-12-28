@@ -1,6 +1,13 @@
 # _Michael f. Otterstedt_
 
+## http://
+* [Latest Version of this CV](https://github.com/otterstedt/me/blob/master/CV/michael.f.otterstedt.md "CV Nightly Build") - https://github.com/otterstedt/me/blob/master/CV/michael.f.otterstedt.md
+* [GitHub](https://github.com/otterstedt/ "Otterstedt GitHub") - https://github.com/otterstedt/
+* [Linked In](https://www.linkedin.com/in/motterstedt/ "Michael f. Otterstedt on Linked In") - https://www.linkedin.com/in/motterstedt/
+
+
 ## Degree
+Chalmers University of Technology, Göteborg, Sweden
 
 _Bachelor of Science in Computer Engineering_
 
@@ -12,7 +19,8 @@ _Integration Engineer - Experienced_
 ## Objective
 
 * Modern Tools & Frameworks
-* CI/CD/Test 
+* Developer/Integrator
+* CI/CD/Test
 * Environment with DevOps mindset
 * Automation
 * Encouraging & Passionate Environment
@@ -20,57 +28,61 @@ _Integration Engineer - Experienced_
 
 ## Skills
 
-* Full stack
-* Highly skilled troubleshooting mindset
-* Quick learner
+* Full Stack
+* Highly Skilled Troubleshooting Mindset
+* Quick Learner
 * Beyond the Buzzwords
+
 ```
-Java, Spring, Javascript, Nodejs, Python, Scala, PHP, Bash, Linux, OSX, Windows, AWS, JMeter, Scrum, Nginx
-Ansible, Docker, Automation, Jenkins, System Administration, SQL, NoSQL
-Web, HTML, CSS, REST, Swagger, Systems Integration, IoT, GIS, Grafana
+Java, Spring, Javascript, Nodejs, MQTT, Python, Scala, PHP, Bash, Linux, OSX, Windows,
+AWS, JMeter, Scrum, Nginx, Ansible, Docker, Automation, Jenkins, System Administration,
+SQL, NoSQL, Web, HTML, CSS, REST, Swagger, Systems Integration, IoT, GIS, Grafana,
 Home Automation, Raspberry Pi, Technical Training, IntelliJ, Eclipse, Git, Svn
 ```
 ---
 
 ## Software Engineering Work Experience
 
-### 2018
+### _2018_
 
 #### Ericsson, Montreal, Canada
 
-#####  Integration Engineer 
+#####  Integration Engineer
 
-  ### IoT Accelerator Platform - DDM (Device & Data Management)
+### IoT Accelerator Platform - DDM (Device & Data Management)
 
-  * API Development for Environment Monitoring, Connected Traffic
-  * Integration components for external systems/clients
-  * Automated deployments with Ansible
-  * IoT Gateway Development
-  * Unit/Integration Testing
-  * Training for internal and external customers
-  * Development of theoretical and practical training material
-  * Classroom Training Delivery
-  * Automated training environment
-  * Grafana Data Source Plugin
-  * Ansible Module Development
-  ```
-  Ansible, Nodejs, Java, Javascript, Linux, AWS, Azure Event Hub, Jenkins, Docker, NoSQL, REST
-  ```
+* API Development for Environment Monitoring, Connected Traffic
+* Integration components for external systems/clients
+* Automated deployments with Ansible
+* IoT Gateway Development
+* Unit/Integration Testing
+* Organized Knowledge Sharing Sessions
+* Training for internal and external customers
+* Development of theoretical and practical training material
+* Classroom Training Delivery
+* Automated training environment
+* Grafana Data Source Plugin
+* Ansible Module Development
 
-  ### Multi Service Delivery Platform (Ericsson MSDP)
-    
-  * Product customization for a US mobile operator
-  * Product customization to use as an e-commerce database
-  * Troubleshooting, Troubleshooting & Troubleshooting.
-  * Training for internal and external customers. 
-  * Development theoretical and practical training material
-  * Classroom Training Delivery
-  * Automated training environment
-  ```
-  Ansible, Java, Javascript, Spring, Linux, AWS, JBoss, Oracle, HTML, CSS, XML, Jenkins, F5
-  ```
+```
+Ansible, Nodejs, Java, Javascript, Linux, AWS, Azure Event Hub, Kafka, Jenkins, Docker, NoSQL, REST, coap, lwm2m
+```
 
-### 2015
+### Multi Service Delivery Platform (Ericsson MSDP)
+
+* Product customization for a US mobile operator
+* Product customization to use as an e-commerce backend
+* Troubleshooting, Troubleshooting & Troubleshooting.
+* Training for internal and external customers.
+* Development of theoretical and practical training materials
+* Classroom Training Delivery
+* Automated training environment setup
+
+```
+Ansible, Java, Javascript, Spring, Linux, AWS, JBoss, Oracle, HTML, CSS, XML, Jenkins, F5, Selenium
+```
+
+### _2015_
 
 #### Evry, Göteborg, Sweden
 
@@ -80,92 +92,120 @@ Home Automation, Raspberry Pi, Technical Training, IntelliJ, Eclipse, Git, Svn
 
   * Implementing an e-commerce product database for an international hygiene brand.
   * Customer adaptation with the SAP Hybris platform
-  * Collaboration with the frontend team
-  ```
-  Java, Spring, Tomcat, SOAP, XML
-  ```
+  * Collaboration with the front end team
 
-### 2011
+```
+Hybris, Java, Spring, Tomcat, SOAP, XML, Jenkins
+```
 
-#### Ericsson, Göteborg, Sweden 
+### _2011_
+
+#### Ericsson, Göteborg, Sweden
 
 #####  Integration Engineer
   Business Unit Global Services
 
-  ### Multi Service Delivery Platform (Ericsson MSDP)
-  * Product customizations and customer adaptations.
-  * Delivery of custom solutions for Telecom Operators
-  * Java, Spring, JBoss, Linux, Solaris
+### Multi Service Delivery Platform (Ericsson MSDP)
+* Product customizations and customer adaptations.
+* Delivery of custom solutions for Telecom Operators
+* Java, Spring, JBoss, Linux, Solaris
+
+```
+Java, Spring, JBoss, Linux, Solaris, Apache, XSL, XML
+```
 
   _Drutt was acquired by Ericsson in 2007_
 
-### 2007
+### _2007_
 
 #### Drutt, Göteborg, Sweden
 
 #####  Drutt Professional Services Consultant.
   Implemented, integrated and delivered solutions based on MSDP.
 
-  ### Mobile Service Delivery Platform (Drutt MSDP)
-  * Product customizations and customer adaptations.
-  * Delivery of custom solutions for Telecom Operators
-  ```
-  Java, Spring, JBoss, Linux, Solaris
-  ```
+### Mobile Service Delivery Platform (Drutt MSDP)
+* Product customizations and customer adaptations.
+* Delivery of custom solutions for Telecom Operators
 
-### 2006
+```
+Java, Spring, JBoss, Linux, Solaris, Apache, XSL, XML, PHP
+```
+
+### _2006_
 
 #### Prodocon, Göteborg, Sweden
 
- ##### Support/Technical Department
+##### Support/Technical Department
 
- ### Domain name management company
+### Domain name management company
 
-  * Developed Intranet
-  * Phone/E-mail Support 
-  ```
-  Linux, Apache, MySQL, PHP
-  ```
+* Developed Intranet
+* Phone/E-mail Support
 
-### 2005
+```
+Linux, Apache, MySQL, PHP
+```
+
+### _2005_
 
 ## Hobby Project
 
-### 2018
+### _2018_
 
-#### Connected Life
+#### OTTERNET
 
-##### Connecting Everything
-
-Connecting three physical sites with a control/monitoring center in the Cloud.
+Connecting three trans Atlantic sites with a control/monitoring center in the AWS Cloud.
 * Home
 * Chalet
 * Car
 
-Integration of local systems with an AWS based cloud. Consists of  a mix of home made scripts and applications together with various open source software. Monitor and control the sites from web based GUIs. 
+Integration of local systems with an AWS based cloud. Consists of a mix of home made scripts/hacks and applications together with various open source software. Monitor and control the sites from web based GUIs.
 
 Automatic Deployment locally and to the remote sites with Jenkins and Ansible
 
 ```
-Nodejs, Java, HTML, CSS, nginx, MongoDB, InfluxDB, Grafana, Python, SSH, Home Assistant, MQTT, Bash Scripting, Ansible, Jenkins, Docker, Linux, SELinux, AWS, Raspberry Pi, GIS, motion, Tensorflow, Open Street Map, Leaflet, SenseHat, Caching, IoT Edge, Integration
+Nodejs, Java, HTML, CSS, Nginx, MongoDB, InfluxDB, Grafana, Python, SSH,
+Home Assistant, MQTT, Bash Scripting, Ansible, Jenkins, Docker, Linux,
+SELinux, AWS, Raspberry Pi, GIS, motion, Tensorflow, Open Street Map,
+Leaflet, SenseHat, Caching, IoT Edge, Integration, Swagger
 ```
+#### Sites
 
-#### Cloud
+##### Cloud
 
 Multiple AWS instances to integrate all local sites.
 Hosts databases and web based GUIs to access data, monitor and control.
-Exposes tunnels to provide access to the local sites.
+Local sites integrate towards the cloud central and provide access through remote tunnels.
 Home assistant is used as a central to integrate with various 3pp cloud services and the local sites with MQTT.
 
-##### Kartrak Application
+###### Kartrak Web Application
 Web application to render all the historical routes on a map made by the car, including front window images and sensor data like speed, direction, temperature etc.
+
+Possibility to recreate a driven route with a car moving around on the map based on real data.
+```
+HTML, Javascript, CSS
+```
 ##### Otternet API Application
 REST API to retrieve all collected data
-##### Open Street Map 
+```
+Nodejs, Swagger, MongoDB
+```
+##### Open Street Map
 Local map tiles server used in Kartrak to plot routes.
-
-
-#### Home
+```
+Tileserver GL, Leaflet
+```
+##### Grafana
+Graphical dashboards to monitor current and historical data collected from the different locations.
+```
+Grafana, InfluxDB, Bash
+```
+##### Jenkins
+Automatic deployments across the different sites
+```
+Jenkins, Ansible
+```
+#### Home Site
 
 Cameras, Switches and Sensors
 
@@ -175,76 +215,79 @@ Automatic coffee making to get fresh coffee when it's time to get up.
 
 Home assistant is used as a local central to monitor and control/automate local actions.
 
-#### Chalet
+
+#### Chalet Site
 
 Cameras, Switches and Sensors
 
 Indoor and outdoor cameras. Switches to control lights and cameras.
 Home assistant is used a local central to access the data and control the local switches.
 
-#### Car
+#### Car Site
 
 Camera, GPS and Sensors
 
-Raspberry Pi collects all the driving location data including sensors like gyroscope, temperature etc.
+Raspberry Pi collects road view images and all the driving location data including sensors like gyroscope, temperature etc.
 
-Saves all data locally and uploads to the cloud based central server when online.
+Saves all data locally and uploads to the cloud based central server when connection is available.
 
-### 2016
+
+### _2016_
 
 ## Other Work Experience
 
-### 2018 
+### _2018_
 
 #### Personal Business, Europe
 
-  ##### Touring Services
-  * Tour Manager
-  * Driver
-  * Logistics
-  ```
-  Planning & Management of Tour Logistics
-  ```
+##### Touring Services
+* Tour Manager
+* Driver
+* Logistics
 
-### 2006 
+```
+Planning & Management of Tour Logistics
+```
+
+### _2006_
 
 ---
 
 ## Education
 
-### 2004
+### _2004_
 
 * Chalmers University of Technology, Göteborg, Sweden
-  
+
   _Additional Master of Science courses_
 
-### 2003
+### _2003_
 
-### 2002
-
-* Chalmers University of Technology, Göteborg, Sweden 
-   
-   _Bachelor of Science in Computer Engineering_
-   
-   _Software Engineering Program_
-
-### 1999
+### _2002_
 
 * Chalmers University of Technology, Göteborg, Sweden
-  
+
+   _Bachelor of Science in Computer Engineering_
+
+   _Software Engineering Program_
+
+### _1999_
+
+* Chalmers University of Technology, Göteborg, Sweden
+
   _Technical Preparatory Year_
 
-### 1998
+### _1998_
 
 * Military Service, Karlskrona, Sweden
 
-### 1997
+### _1997_
 
 #### Finnvedens Gymnasium (College)
-*  _Samhällsprogrammet Ekonomi_ 
+*  _Samhällsprogrammet Ekonomi_
 * _Society Studies Program - Economics_
 
-### 1994
+### _1994_
 
 ---
 
@@ -260,9 +303,3 @@ Saves all data locally and uploads to the cloud based central server when online
 * Canada - Permanent Resident
 * European Union - Swedish Citizen
 * USA - Employer Specific
-
-
-
-
-
-
