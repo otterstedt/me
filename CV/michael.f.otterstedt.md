@@ -55,6 +55,7 @@ systemd, Home Automation, Raspberry Pi, Technical Training, IntelliJ, Eclipse, G
 * Integration components for external systems/clients
 * Automated deployments with Ansible
 * IoT Gateway Development
+* Thingworx Integration
 * Unit/Integration Testing
 * Organized Knowledge Sharing Sessions
 * Training for internal and external customers
@@ -65,7 +66,8 @@ systemd, Home Automation, Raspberry Pi, Technical Training, IntelliJ, Eclipse, G
 * Ansible Module Development
 
 ```
-Ansible, Nodejs, Java, Javascript, Linux, AWS, Azure Event Hub, Kafka, Jenkins, Docker, NoSQL, REST, coap, lwm2m
+Ansible, Nodejs, Java, Javascript, Linux, AWS, Azure Event Hub, Kafka, Jenkins, Docker, 
+NoSQL, REST, coap, lwm2m, Thingworx
 ```
 
 ### Multi Service Delivery Platform (Ericsson MSDP)
