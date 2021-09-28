@@ -54,7 +54,7 @@ systemd, Home Automation, Raspberry Pi, Technical Training, IntelliJ, Eclipse, G
 * Deployment of rails/train monitoring systems to multi site clustered environments
 * Troubleshooting
 * Implementation of automated deployments
- * From complex full day manual error prone deployments -> 15 mins coffee break 
+  * From complex full day manual error prone deployments -> 15 mins coffee break 
 
 ### Moogsoft
 
