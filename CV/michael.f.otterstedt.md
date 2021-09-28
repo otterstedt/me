@@ -43,7 +43,40 @@ systemd, Home Automation, Raspberry Pi, Technical Training, IntelliJ, Eclipse, G
 
 ## Software Engineering Work Experience
 
-### _2018_
+### _2021_
+
+#### CN Railways, Montreal, Canada
+
+##### Integration Engineer
+
+### In house monitoring platforms
+
+* Deployment of rails/train monitoring systems to multi site clustered environments
+* Troubleshooting
+* Implementation of automated deployments
+ * From complex full day manual error prone deployments -> 15 mins coffee break 
+
+### Moogsoft
+
+* Installation/Configuration of on premise components
+* Working with operations team to customize the cloud platform for their needs
+* Troubleshooting
+
+### Ansible
+* Projects
+* Roles
+* Playbooks
+
+### Ansible Tower
+* Setup Ansible projects as single point of entry for automated jobs
+* Dynamic inventories using plugins/scripts 
+
+### ServiceNow
+* Development of automated flows creating incidents etc. from incoming events/alerts.
+* Dynamic Ansible inventories
+
+
+### _2019_
 
 #### Ericsson, Montreal, Canada
 
