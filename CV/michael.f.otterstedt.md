@@ -5,6 +5,16 @@
 * [GitHub](https://github.com/otterstedt/ "Otterstedt GitHub") - https://github.com/otterstedt/
 * [Linked In](https://www.linkedin.com/in/motterstedt/ "Michael f. Otterstedt on Linked In") - https://www.linkedin.com/in/motterstedt/
 
+## Table of Contents
+- [Objective](#objective)
+- [Skills](#skills)
+- [Software Engineering Work Experience](#software-engineering-work-experience)
+- [Hobby Project](#hobby-project)
+- [Other Work Experience](#other-work-experience)
+- [Education](#education)
+- [Languages](#languages)
+- [Work Permits](#work-permits)
+
 
 ## Degree
 Chalmers University of Technology, Göteborg, Sweden
@@ -25,6 +35,7 @@ _Integration Engineer - Experienced_
 * Automation
 * Encouraging & Passionate Environment
 * Knowledge sharing between colleagues/departments
+* Remote Friendly
 
 ## Skills
 
@@ -43,7 +54,7 @@ systemd, Home Automation, Raspberry Pi, Technical Training, IntelliJ, Eclipse, G
 
 ## Software Engineering Work Experience
 
-### _2021_
+### _Current_
 
 #### CN Railways, Montreal, Canada
 
@@ -335,6 +346,6 @@ Planning & Management of Tour Logistics
 
 ## Work Permits
 
-* Canada - Permanent Resident
+* Canada - Citizen
 * European Union - Swedish Citizen
 * USA - Employer Specific
