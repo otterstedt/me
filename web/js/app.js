@@ -1,4 +1,7 @@
 
+var appLang = 'fr';
+
+
 function manageLanguage(lang) {
 
     var validLanguages = ['en', 'fr', 'sv']
@@ -40,7 +43,7 @@ function manageLanguage(lang) {
 
 $( document ).ready(function() {
 
-    var userLang = navigator.language || navigator.userLanguage;
+    var userLang = appLang || navigator.language || navigator.userLanguage;
 
     console.log("Language:", userLang);
 
